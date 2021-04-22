@@ -1,1 +1,2 @@
 change the content of the file created t practice git kastas
+changed the file again to make the commit
