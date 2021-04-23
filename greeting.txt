@@ -1,6 +1,1 @@
-
-good morning!
-
-
-good morning by branch
-
+Hello world! this is the kata6
